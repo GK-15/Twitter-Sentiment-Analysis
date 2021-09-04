@@ -1,4 +1,4 @@
-# **Twitter Sentiment Analysis**
+# **Tool for Twitter Sentiment Analysis and Tweets Extraction**
 
 1.) In the folder named **"Twitter Sentiment Analysis to get total data about tweets"** we can able to download the tweets in json format and able to differentiate between the high sentiment, low sentiment tweets as well as the most retweeted tweets with the person who tweets the most.
 
